@@ -13,8 +13,11 @@
 		- nltk.download() 실행 후 wordnet 설치
 
 ## Results
-* t-SNE visualization with Bokeh library
+### t-SNE visualization with Bokeh library
+
 ![t-SNE visualization](./img/tsne.png)
 
-* topic keywords extracted from topic modeling
+
+### topic keywords extracted from topic modeling
+
 ![topic modeling](./img/topic_keywords.png)
